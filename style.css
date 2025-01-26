@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
     color: white;
-    
 }
 body {
     background-color: black;
@@ -15,19 +14,15 @@ body {
     justify-content: space-between;
     align-items: center;
     color: white;
-    
 }
 
 .navright {
-    
 }
 
-.navright a{
+.navright a {
     text-decoration: none;
     color: white;
-    
 }
-
 
 .title {
     text-align: center;
